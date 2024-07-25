@@ -1,0 +1,558 @@
+{
+    "type": "FeatureCollection",
+    "name": "economique_super_market",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "775786925",
+                "name": "SupermarchÃ© CDCI",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"shop\"=>\"supermarket\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9656346,
+                    5.3577959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "2991180857",
+                "name": "Super U Abidjan Plateau",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"shop\"=>\"supermarket\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0193134,
+                    5.3207723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "3017000450",
+                "name": "SupermarchÃ© Bon prix",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"addr:city\"=>\"AdjamÃ©\",\"addr:country\"=>\"CI\",\"addr:state\"=>\"Abidjan\",\"addr:street\"=>\"Avenue 13\",\"operator\"=>\"Prosuma\",\"shop\"=>\"supermarket\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0217942,
+                    5.3524976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "3813674270",
+                "name": "Super MarchÃ© Bonprix Niangon",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"shop\"=>\"supermarket\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0894022,
+                    5.3356615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "3894153983",
+                "name": "SupermarchÃ© Citydia",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"addr:city\"=>\"Marcory\",\"addr:country\"=>\"CI\",\"addr:state\"=>\"Abidjan\",\"addr:street\"=>\"Rue E 7\",\"shop\"=>\"supermarket\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9764231,
+                    5.3055586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "4107248790",
+                "name": "SupermarchÃ© Bon Prix",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"shop\"=>\"supermarket\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.977861,
+                    5.2743389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "5599203706",
+                "name": "SupermarchÃ© Interprix",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"shop\"=>\"supermarket\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.011182,
+                    5.3445037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "5924557569",
+                "name": "SupermarchÃ© CDCI",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"shop\"=>\"supermarket\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.079257,
+                    5.3521661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "5928726280",
+                "name": "SupermarchÃ© Bon prix",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"shop\"=>\"supermarket\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0942727,
+                    5.3786136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "5936638101",
+                "name": "SupermarchÃ© Bon Prix Gesco",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"shop\"=>\"supermarket\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0959296,
+                    5.3656927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "5938775039",
+                "name": "SupermarchÃ© Bon Prix Gesco",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"shop\"=>\"supermarket\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0958418,
+                    5.3655586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "5939011194",
+                "name": "SupermarchÃ© NATIONAL",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"shop\"=>\"supermarket\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0953939,
+                    5.3506272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "5939248305",
+                "name": "Super marchÃ© NATIONAL",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"shop\"=>\"supermarket\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0953959,
+                    5.3506299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "8560869576",
+                "name": "SupermarchÃ© de la Rivera 2",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"shop\"=>\"supermarket\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9766077,
+                    5.352907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "8584375848",
+                "name": "SupermarchÃ© Cash Ivoir",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"fid\"=>\"5\",\"project:opencities_abidjan\"=>\"yes\",\"shop\"=>\"supermarket\",\"source:date\"=>\"2021-02-25\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.00017,
+                    5.3367888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "8584450368",
+                "name": "SupermarchÃ© Sococe Abobo Samake",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"fid\"=>\"692\",\"project:opencities_abidjan\"=>\"yes\",\"shop\"=>\"supermarket\",\"source:date\"=>\"2021-03-07\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0065322,
+                    5.415352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "8843415699",
+                "name": "SupermarchÃ© CITYDIA",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"project:opencities_abidjan\"=>\"yes\",\"shop\"=>\"supermarket\",\"source:date\"=>\"2021/03/05\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9578187,
+                    5.3717907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "8846760511",
+                "name": "SupermarchÃ© interprix",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"fid\"=>\"322\",\"project:opencities_abidjan\"=>\"yes\",\"shop\"=>\"supermarket\",\"source:date\"=>\"2021/02/26\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9598749,
+                    5.36354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "8846760621",
+                "name": "SupermarchÃ© bon prix",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"fid\"=>\"208\",\"project:opencities_abidjan\"=>\"yes\",\"shop\"=>\"supermarket\",\"source:date\"=>\"2021/02/26\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9367101,
+                    5.3627706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "8914869790",
+                "name": "Superette king shop",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"project:opencities_abidjan\"=>\"yes\",\"shop\"=>\"convenience\",\"source:date\"=>\"2021/02/25\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.015855,
+                    5.4196329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": 0,
+                "osm_id": "10235233717",
+                "name": "SupermarchÃ© BONPRIX",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"shop\"=>\"supermarket\"",
+                "layer": "super marche",
+                "path": null,
+                "categories": "economique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0892607,
+                    5.3355417
+                ]
+            }
+        }
+    ]
+}

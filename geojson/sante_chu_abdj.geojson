@@ -1,0 +1,168 @@
+{
+    "type": "FeatureCollection",
+    "name": "sante_chu_abdj",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": null,
+                "osm_id": "6968911556",
+                "name": "CHU de Yopougon",
+                "barrier": null,
+                "highway": "bus_stop",
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"bus\"=>\"yes\",\"official_status\"=>\"official\",\"pole\"=>\"no\",\"public_transport\"=>\"platform\",\"shelter\"=>\"no\"",
+                "layer": "chu",
+                "path": "E:/2024/SUPER_MAP/SuperMap/DISTRICT_ABIDJAN/chu.shp",
+                "categories": "sante"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.089621332887632,
+                    5.358535179088673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": null,
+                "osm_id": "10316919743",
+                "name": "CHU Angré",
+                "barrier": null,
+                "highway": "bus_stop",
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": "\"bus\"=>\"yes\",\"official_status\"=>\"unofficial\",\"public_transport\"=>\"platform\"",
+                "layer": "chu",
+                "path": "E:/2024/SUPER_MAP/SuperMap/DISTRICT_ABIDJAN/chu.shp",
+                "categories": "sante"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.957420004693882,
+                    5.401010591297162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": null,
+                "osm_id": null,
+                "name": "CHU de Treichville",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": null,
+                "layer": null,
+                "path": null,
+                "categories": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.003558333089245,
+                    5.291172860101873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": null,
+                "osm_id": null,
+                "name": "Institut National d'Hygiène Publique de Treichville",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": null,
+                "layer": null,
+                "path": null,
+                "categories": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.005088806719443,
+                    5.29431457114223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": null,
+                "osm_id": null,
+                "name": "Pôle Mère Enfant du CHU de Cocody",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": null,
+                "layer": null,
+                "path": null,
+                "categories": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.993866679494314,
+                    5.345732831652334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "UserID": null,
+                "osm_id": null,
+                "name": "CHU de Cocody",
+                "barrier": null,
+                "highway": null,
+                "ref": null,
+                "address": null,
+                "is_in": null,
+                "place": null,
+                "man_made": null,
+                "other_tags": null,
+                "layer": null,
+                "path": null,
+                "categories": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.993592082642458,
+                    5.34205000328626
+                ]
+            }
+        }
+    ]
+}
